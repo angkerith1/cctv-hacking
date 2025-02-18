@@ -9,7 +9,7 @@ support -> linux , Termux
 apt update
 apt install git
 apt install python
-git clone https://github.com/angkerithhack001/cctv.git
+git clone https://github.com/angkerith1/cctv-hacking
 cd cctv
 python cctv_hack.py
 ```
